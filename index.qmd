@@ -2,7 +2,7 @@
 title: "Isabelle Jensen"
 ---
 
-This is Isabelle Jensen's Website
+Welcome to Isabelle Jensen's Website
 
 ```{r}
 
