@@ -1,0 +1,10 @@
+---
+title: "About"
+---
+
+About Isabelle
+
+Isabelle earned her bachelor's degree Summa Cum Laude at Hofstra University in political science. Currently, she is in her second year in the GVPT Ph.D. program with an interest in American Politics and Disability Studies. 
+
+```{r}
+```
