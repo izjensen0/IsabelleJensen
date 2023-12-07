@@ -13,6 +13,11 @@ In 2023, Mitch McConnell had three publlic health events. In March, he fell whic
 I hypothesize that media will be harsher on McConnell and his position as a legislator when his health is in question. 
 I did a web scrap of a politico search of "Mitch McConnell". Then I got all the article names. I pulled titles, dates, urls, and text from the articles. I limited my pulling to only articles from 2022 to 2023. I then did a wordcloud and aggregate sentiment analysis. 
 
-![Alt Text](sentimentpoints.png)
+
+[Open My Word Cloud](McConnellpdfpolicloud.pdf)
+
+![Sentiment Analysis](sentimentpoints.png)
+
+
 
 
