@@ -4,7 +4,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Isabelle Jensen’s Research\nDownload My CV\nSocial Data Science Project\nIn 2023, Mitch McConnell had three publlic health events. In March, he fell which gave him a concussion and rib fracture. He was out of the senate for weeks. In July, he froze for 20 seconds while addressing a press conference. He froze again in August during another press conference.\nI hypothesize that media will be harsher on McConnell and his position as a legislator when his health is in question. I did a web scrap of a politico search of “Mitch McConnell”. Then I got all the article names. I pulled titles, dates, urls, and text from the articles. I limited my pulling to only articles from 2022 to 2023. I then did a wordcloud and aggregate sentiment analysis."
+    "text": "Isabelle Jensen’s Research\nDownload My CV\nSocial Data Science Project\nIn 2023, Mitch McConnell had three publlic health events. In March, he fell which gave him a concussion and rib fracture. He was out of the senate for weeks. In July, he froze for 20 seconds while addressing a press conference. He froze again in August during another press conference.\nI hypothesize that media will be harsher on McConnell and his position as a legislator when his health is in question. I did a web scrap of a politico search of “Mitch McConnell”. Then I got all the article names. I pulled titles, dates, urls, and text from the articles. I limited my pulling to only articles from 2022 to 2023. I then did a wordcloud and aggregate sentiment analysis.\n\n\n\nAlt Text"
   },
   {
     "objectID": "about.html",
